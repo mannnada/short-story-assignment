@@ -5,7 +5,7 @@
 A detailed article summarizing the FlowDubber paper has been published on Medium. It explains the core contributions, methodology, experimental results, and real-world implications of the system.
 
 Link to article:  
-https://medium.com/your-article-link
+https://medium.com/@mannnada05/flowdubber-a-deep-dive-into-the-future-of-natural-emotionally-aware-movie-dubbing-c2a5aef27dfb
 
 ## Video Presentation
 
