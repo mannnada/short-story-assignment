@@ -22,7 +22,7 @@ The slide deck used in the video and presentations is available in this reposito
 - Results from benchmark datasets (Chem, GRID)
 - Impact and future directions
 
-File: `FlowDubber_Complete_Presentation.pptx`
+File: https://www.slideshare.net/slideshow/flowdubber_complete_presentation_deep_learning-pptx/278842772
 
 ## About the Paper
 
