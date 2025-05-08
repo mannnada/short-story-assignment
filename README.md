@@ -12,7 +12,7 @@ https://medium.com/@mannnada05/flowdubber-a-deep-dive-into-the-future-of-natural
 A 15 to 25-minute video presentation explaining the key points of FlowDubber is available. It walks through the architecture, methods, datasets, and results using slides and visual examples.
 
 Link to YouTube video:  
-https://youtube.com/your-video-link
+https://youtu.be/GftOX_2RNd8
 
 ## Slide Deck
 
